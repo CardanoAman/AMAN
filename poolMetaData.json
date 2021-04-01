@@ -2,5 +2,6 @@
   "name": "AMAN Stake Pool",
   "description": "AMAN",
   "ticker": "AMAN",
-  "homepage": "https://twitter.com/cardano_aman"
+  "homepage": "https://twitter.com/cardano_aman",
+  "extended": "https://cardanoaman.github.io/AMAN/extend.json"
 }
